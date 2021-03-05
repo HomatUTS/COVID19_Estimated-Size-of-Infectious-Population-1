@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-03, COVID-19 Time Series
+## 2021-03-04, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -157,17 +157,17 @@
 
  <p>&nbsp;</p> 
 
-22. LA <p>
-> <img src="/output/states_current/LA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/LA_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/LA_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/LA_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-23. CO <p>
+22. CO <p>
 > <img src="/output/states_current/CO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/CO_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/CO_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/CO_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+23. LA <p>
+> <img src="/output/states_current/LA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/LA_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/LA_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/LA_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

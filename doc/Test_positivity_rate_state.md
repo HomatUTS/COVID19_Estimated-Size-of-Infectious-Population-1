@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-03, COVID-19 Time Series
+## 2021-03-04, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -50,13 +50,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AL_testPositiveRate.png)  |  ![img](/output/states_current/MN_testPositiveRate.png)  |  
 
-|  21. MO  |  22. LA  |  
+|  21. MO  |  22. CO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MO_testPositiveRate.png)  |  ![img](/output/states_current/LA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MO_testPositiveRate.png)  |  ![img](/output/states_current/CO_testPositiveRate.png)  |  
 
-|  23. CO  |  24. OK  |  
+|  23. LA  |  24. OK  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CO_testPositiveRate.png)  |  ![img](/output/states_current/OK_testPositiveRate.png)  |  
+|  ![img](/output/states_current/LA_testPositiveRate.png)  |  ![img](/output/states_current/OK_testPositiveRate.png)  |  
 
 |  25. KY  |  26. MD  |  
 |  :---   |   :---   |  
