@@ -123,12 +123,12 @@ write.csv(jhudat3, file.path(getwd(), 'JHU_CSSE_covid19_recovered_global.csv'))
 
 
 ## States
-# fetch states data from covidtracking.com
-url2 = 'https://covidtracking.com/api/v1/states/daily.csv'
-covidtrackingDat = read.csv(url2, head=T)
-# daily input dataset
-write.csv(covidtrackingDat, file.path(getwd(), 'covidtracking_dot_com.csv'))
-print(head(covidtrackingDat[, 1:7]))
+## fetch states data from covidtracking.com
+#url2 = 'https://covidtracking.com/api/v1/states/daily.csv'
+#covidtrackingDat = read.csv(url2, head=T)
+## daily input dataset
+#write.csv(covidtrackingDat, file.path(getwd(), 'covidtracking_dot_com.csv'))
+#print(head(covidtrackingDat[, 1:7]))
 
 
 Sys.sleep(5)

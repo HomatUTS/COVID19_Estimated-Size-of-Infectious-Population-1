@@ -46,13 +46,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/VA_newCases.png)  |  ![img](/output/states_current/SC_newCases.png)  |  
 
-|  19. AL  |  20. MN  |  
+|  19. AL  |  20. MO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AL_newCases.png)  |  ![img](/output/states_current/MN_newCases.png)  |  
+|  ![img](/output/states_current/AL_newCases.png)  |  ![img](/output/states_current/MO_newCases.png)  |  
 
-|  21. MO  |  22. CO  |  
+|  21. MN  |  22. CO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MO_newCases.png)  |  ![img](/output/states_current/CO_newCases.png)  |  
+|  ![img](/output/states_current/MN_newCases.png)  |  ![img](/output/states_current/CO_newCases.png)  |  
 
 |  23. LA  |  24. OK  |  
 |  :---   |   :---   |  
@@ -66,17 +66,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/UT_newCases.png)  |  ![img](/output/states_current/WA_newCases.png)  |  
 
-|  29. AR  |  30. MS  |  
+|  29. IA  |  30. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AR_newCases.png)  |  ![img](/output/states_current/MS_newCases.png)  |  
+|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
 
-|  31. KS  |  32. NV  |  
+|  31. KS  |  32. MS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_newCases.png)  |  ![img](/output/states_current/NV_newCases.png)  |  
+|  ![img](/output/states_current/KS_newCases.png)  |  ![img](/output/states_current/MS_newCases.png)  |  
 
-|  33. CT  |  34. IA  |  
+|  33. NV  |  34. CT  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CT_newCases.png)  |  ![img](/output/states_current/IA_newCases.png)  |  
+|  ![img](/output/states_current/NV_newCases.png)  |  ![img](/output/states_current/CT_newCases.png)  |  
 
 |  35. NE  |  36. NM  |  
 |  :---   |   :---   |  

@@ -123,12 +123,63 @@ write.csv(jhudat3, file.path(getwd(), 'JHU_CSSE_covid19_recovered_global.csv'))
 
 
 ## States
-# fetch states data from covidtracking.com
-url2 = 'https://covidtracking.com/api/v1/states/daily.csv'
-covidtrackingDat = read.csv(url2, head=T)
+## fetch states data from covidtracking.com
+#url2 = 'https://covidtracking.com/api/v1/states/daily.csv'
+#covidtrackingDat = read.csv(url2, head=T)
+## daily input dataset
+#write.csv(covidtrackingDat, file.path(getwd(), 'covidtracking_dot_com.csv'))
+#print(head(covidtrackingDat[, 1:7]))
+
+
+## fetch US states/county cases from JHU
+url_jhuState = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv'
+jhuState = read.csv(url_jhuState, head=T)
+# collapse at the state level
+colstate = jhuState$Province_State
+jhustnames = as.character(unique(colstate))
+startcol = which(colnames(jhuState) == 'X1.22.20')
+jhuStateDat = jhuState[0, c(7, startcol:ncol(jhuState))]
+for (i in 1:length(jhustnames)){
+  ind = which(jhuState$Province_State == jhustnames[i])
+  tmp = jhuState[ind, startcol:ncol(jhuState)]
+  stTS = colSums(tmp)
+  stDF = cbind(data.frame(Province_State = jhustnames[i]), rbind(stTS))
+  jhuStateDat = rbind(jhuStateDat, stDF)
+}
+# state name Abb
+data(state)
+myStName = c(state.name, 'District of Columbia')
+myStAbb = c(state.abb, 'DC')
+sid = match(jhustnames, myStName)
+stnameAbb = myStAbb[sid]
+jhuStateDat = cbind(rbind(data.frame(StateAbb = stnameAbb)), jhuStateDat)
+
 # daily input dataset
-write.csv(covidtrackingDat, file.path(getwd(), 'covidtracking_dot_com.csv'))
-print(head(covidtrackingDat[, 1:7]))
+write.csv(jhuStateDat, file.path(getwd(), 'jhuStateDat_confirmed_JHUCSSE.csv'))
+print(tail(jhuStateDat))
+
+
+## fetch US states/county deaths from JHU
+url_jhuState2 = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv'
+jhuState2 = read.csv(url_jhuState2, head=T)
+# collapse at the state level
+colstate = jhuState2$Province_State
+jhustnames = as.character(unique(colstate))
+startcol = which(colnames(jhuState2) == 'X1.22.20')
+jhuStateDat2 = jhuState2[0, c(7, startcol:ncol(jhuState2))]
+for (i in 1:length(jhustnames)){
+  ind = which(jhuState2$Province_State == jhustnames[i])
+  tmp = jhuState2[ind, startcol:ncol(jhuState2)]
+  stTS = colSums(tmp)
+  stDF = cbind(data.frame(Province_State = jhustnames[i]), rbind(stTS))
+  jhuStateDat2 = rbind(jhuStateDat2, stDF)
+}
+# state name Abb
+jhuStateDat2 = cbind(rbind(data.frame(StateAbb = stnameAbb)), jhuStateDat2)
+
+# daily input dataset
+write.csv(jhuStateDat2, file.path(getwd(), 'jhuStateDat2_confirmed_JHUCSSE.csv'))
+print(tail(jhuStateDat2))
 
 
 Sys.sleep(5)
@@ -187,10 +238,10 @@ ifrU = 0.0133
 ##  6. States   #############################################
 ##
 
-# total 56 states
-curPos = covidtrackingDat$positive[1:56]
+# total 58 states
+curPos = jhuStateDat[, ncol(jhuStateDat)]
 scases = sort(curPos, index.return = T, decreasing = T)
-sortedStates = as.character(covidtrackingDat$state[scases$ix[1:56]])
+sortedStates = as.character(jhuStateDat$StateAbb[scases$ix[1:58]])
 print(sortedStates)
 
 # make 50+'DC' states
@@ -216,7 +267,7 @@ outLst <- foreach(i = 1:numState,
                   .packages = c('ggplot2', 'data.table','formattable',
                                 'ggpubr','RColorBrewer','ggsci','wesanderson','tseries','penalized')) %dopar% {
                                   stname = StateAbb[i]
-                                  tmp = cvd_state_LatentInfections(curDate, stname, covidtrackingDat, 
+                                  tmp = cvd_state_LatentInfections(curDate, stname, jhuStateDat, jhuStateDat2,  
                                                                    stpopulationData, ifr0, ifrL, ifrU)
                                   #outLst[[i]] = tmp  
                                 }

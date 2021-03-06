@@ -46,13 +46,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/VA_testPositiveRate.png)  |  ![img](/output/states_current/SC_testPositiveRate.png)  |  
 
-|  19. AL  |  20. MN  |  
+|  19. AL  |  20. MO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AL_testPositiveRate.png)  |  ![img](/output/states_current/MN_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AL_testPositiveRate.png)  |  ![img](/output/states_current/MO_testPositiveRate.png)  |  
 
-|  21. MO  |  22. CO  |  
+|  21. MN  |  22. CO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MO_testPositiveRate.png)  |  ![img](/output/states_current/CO_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MN_testPositiveRate.png)  |  ![img](/output/states_current/CO_testPositiveRate.png)  |  
 
 |  23. LA  |  24. OK  |  
 |  :---   |   :---   |  
@@ -66,17 +66,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/UT_testPositiveRate.png)  |  ![img](/output/states_current/WA_testPositiveRate.png)  |  
 
-|  29. AR  |  30. MS  |  
+|  29. IA  |  30. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AR_testPositiveRate.png)  |  ![img](/output/states_current/MS_testPositiveRate.png)  |  
+|  ![img](/output/states_current/IA_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
 
-|  31. KS  |  32. NV  |  
+|  31. KS  |  32. MS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
+|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/MS_testPositiveRate.png)  |  
 
-|  33. CT  |  34. IA  |  
+|  33. NV  |  34. CT  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CT_testPositiveRate.png)  |  ![img](/output/states_current/IA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/NV_testPositiveRate.png)  |  ![img](/output/states_current/CT_testPositiveRate.png)  |  
 
 |  35. NE  |  36. NM  |  
 |  :---   |   :---   |  
