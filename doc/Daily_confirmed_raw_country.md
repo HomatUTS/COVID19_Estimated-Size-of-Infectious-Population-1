@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-05, COVID-19 Time Series
+## 2021-03-06, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -66,13 +66,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Belgium_newCases.png)  |  ![img](/output/countries_current/Iraq_newCases.png)  |  
 
-|  29. Sweden  |  30. Pakistan  |  
+|  29. Sweden  |  30. Philippines  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Pakistan_newCases.png)  |  
+|  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Philippines_newCases.png)  |  
 
-|  31. Philippines  |  32. Switzerland  |  
+|  31. Pakistan  |  32. Switzerland  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Philippines_newCases.png)  |  ![img](/output/countries_current/Switzerland_newCases.png)  |  
+|  ![img](/output/countries_current/Pakistan_newCases.png)  |  ![img](/output/countries_current/Switzerland_newCases.png)  |  
 
 |  33. Bangladesh  |  34. Morocco  |  
 |  :---   |   :---   |  

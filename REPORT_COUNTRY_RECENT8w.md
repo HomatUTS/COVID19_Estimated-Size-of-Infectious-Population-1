@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-05, COVID-19 Time Series
+## 2021-03-06, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -213,17 +213,17 @@
 
  <p>&nbsp;</p> 
 
-30. Pakistan <p>
-> <img src="/output/countries_current/Pakistan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Pakistan_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-31. Philippines <p>
+30. Philippines <p>
 > <img src="/output/countries_current/Philippines_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Philippines_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Philippines_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Philippines_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+31. Pakistan <p>
+> <img src="/output/countries_current/Pakistan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Pakistan_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
