@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-07, COVID-19 Time Series
+## 2021-03-08, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -74,13 +74,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Pakistan_newCases.png)  |  ![img](/output/countries_current/Switzerland_newCases.png)  |  
 
-|  33. Bangladesh  |  34. Morocco  |  
+|  33. Bangladesh  |  34. Serbia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Bangladesh_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
+|  ![img](/output/countries_current/Bangladesh_newCases.png)  |  ![img](/output/countries_current/Serbia_newCases.png)  |  
 
-|  35. Serbia  |  36. Austria  |  
+|  35. Morocco  |  36. Austria  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Serbia_newCases.png)  |  ![img](/output/countries_current/Austria_newCases.png)  |  
+|  ![img](/output/countries_current/Morocco_newCases.png)  |  ![img](/output/countries_current/Austria_newCases.png)  |  
 
 |  37. Hungary  |  38. Japan  |  
 |  :---   |   :---   |  

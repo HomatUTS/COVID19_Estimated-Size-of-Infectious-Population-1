@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-07, COVID-19 Time Series
+## 2021-03-08, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -241,17 +241,17 @@
 
  <p>&nbsp;</p> 
 
-34. Morocco <p>
-> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Morocco_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Morocco_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-35. Serbia <p>
+34. Serbia <p>
 > <img src="/output/countries_current/Serbia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Serbia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Serbia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Serbia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+35. Morocco <p>
+> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Morocco_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Morocco_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
