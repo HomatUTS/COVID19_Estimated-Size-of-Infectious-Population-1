@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-08, COVID-19 Time Series
+## 2021-03-09, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -269,17 +269,17 @@
 
  <p>&nbsp;</p> 
 
-38. Japan <p>
-> <img src="/output/countries_current/Japan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Japan_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Japan_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Japan_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-39. Jordan <p>
+38. Jordan <p>
 > <img src="/output/countries_current/Jordan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Jordan_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Jordan_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Jordan_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+39. Japan <p>
+> <img src="/output/countries_current/Japan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Japan_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Japan_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Japan_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

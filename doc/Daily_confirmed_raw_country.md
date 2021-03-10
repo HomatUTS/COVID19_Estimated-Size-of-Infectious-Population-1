@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-08, COVID-19 Time Series
+## 2021-03-09, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -82,13 +82,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Morocco_newCases.png)  |  ![img](/output/countries_current/Austria_newCases.png)  |  
 
-|  37. Hungary  |  38. Japan  |  
+|  37. Hungary  |  38. Jordan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Hungary_newCases.png)  |  ![img](/output/countries_current/Japan_newCases.png)  |  
+|  ![img](/output/countries_current/Hungary_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
 
-|  39. Jordan  |  40. United Arab Emirates  |  
+|  39. Japan  |  40. United Arab Emirates  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Jordan_newCases.png)  |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  
+|  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  
 
 |  41. Lebanon  |  42. Saudi Arabia  |  
 |  :---   |   :---   |  
