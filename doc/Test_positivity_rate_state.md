@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-10, COVID-19 Time Series
+## 2021-03-11, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -42,13 +42,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WI_testPositiveRate.png)  |  ![img](/output/states_current/MA_testPositiveRate.png)  |  
 
-|  17. VA  |  18. SC  |  
+|  17. VA  |  18. MO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/VA_testPositiveRate.png)  |  ![img](/output/states_current/SC_testPositiveRate.png)  |  
+|  ![img](/output/states_current/VA_testPositiveRate.png)  |  ![img](/output/states_current/MO_testPositiveRate.png)  |  
 
-|  19. AL  |  20. MO  |  
+|  19. SC  |  20. AL  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AL_testPositiveRate.png)  |  ![img](/output/states_current/MO_testPositiveRate.png)  |  
+|  ![img](/output/states_current/SC_testPositiveRate.png)  |  ![img](/output/states_current/AL_testPositiveRate.png)  |  
 
 |  21. MN  |  22. CO  |  
 |  :---   |   :---   |  

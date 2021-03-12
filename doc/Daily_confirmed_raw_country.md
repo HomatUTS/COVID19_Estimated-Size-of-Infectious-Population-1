@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-10, COVID-19 Time Series
+## 2021-03-11, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -58,9 +58,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Chile_newCases.png)  |  ![img](/output/countries_current/Romania_newCases.png)  |  
 
-|  25. Portugal  |  26. Israel  |  
+|  25. Israel  |  26. Portugal  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Portugal_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
+|  ![img](/output/countries_current/Israel_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
 
 |  27. Belgium  |  28. Iraq  |  
 |  :---   |   :---   |  
@@ -78,13 +78,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Bangladesh_newCases.png)  |  ![img](/output/countries_current/Serbia_newCases.png)  |  
 
-|  35. Morocco  |  36. Austria  |  
+|  35. Hungary  |  36. Morocco  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Morocco_newCases.png)  |  ![img](/output/countries_current/Austria_newCases.png)  |  
+|  ![img](/output/countries_current/Hungary_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
 
-|  37. Hungary  |  38. Jordan  |  
+|  37. Austria  |  38. Jordan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Hungary_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
+|  ![img](/output/countries_current/Austria_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
 
 |  39. Japan  |  40. United Arab Emirates  |  
 |  :---   |   :---   |  
@@ -106,9 +106,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
 
-|  49. Georgia  |  50. Kazakhstan  |  
+|  49. Georgia  |  50. Bulgaria  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  
+|  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    
