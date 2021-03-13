@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-11, COVID-19 Time Series
+## 2021-03-12, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -17,17 +17,17 @@
 
  <p>&nbsp;</p> 
 
-2. India <p>
-> <img src="/output/countries_current/India_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/India_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/India_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/India_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-3. Brazil <p>
+2. Brazil <p>
 > <img src="/output/countries_current/Brazil_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Brazil_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Brazil_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Brazil_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+3. India <p>
+> <img src="/output/countries_current/India_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/India_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/India_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/India_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -339,24 +339,24 @@
 
  <p>&nbsp;</p> 
 
-48. Nepal <p>
+48. Bulgaria <p>
+> <img src="/output/countries_current/Bulgaria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Bulgaria_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+49. Nepal <p>
 > <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Nepal_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-49. Georgia <p>
+50. Georgia <p>
 > <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Georgia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-50. Bulgaria <p>
-> <img src="/output/countries_current/Bulgaria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Bulgaria_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

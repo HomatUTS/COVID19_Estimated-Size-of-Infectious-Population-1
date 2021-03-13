@@ -4,19 +4,19 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-11, COVID-19 Time Series
+## 2021-03-12, COVID-19 Time Series
 # Countries (top 50)
 
 
  <p>&nbsp;</p> 
 
-|  1. US  |  2. India  |  
+|  1. US  |  2. Brazil  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/US_newCases.png)  |  ![img](/output/countries_current/India_newCases.png)  |  
+|  ![img](/output/countries_current/US_newCases.png)  |  ![img](/output/countries_current/Brazil_newCases.png)  |  
 
-|  3. Brazil  |  4. Russia  |  
+|  3. India  |  4. Russia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Brazil_newCases.png)  |  ![img](/output/countries_current/Russia_newCases.png)  |  
+|  ![img](/output/countries_current/India_newCases.png)  |  ![img](/output/countries_current/Russia_newCases.png)  |  
 
 |  5. United Kingdom  |  6. France  |  
 |  :---   |   :---   |  
@@ -102,13 +102,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Malaysia_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
 
-|  47. Ecuador  |  48. Nepal  |  
+|  47. Ecuador  |  48. Bulgaria  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
+|  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
 
-|  49. Georgia  |  50. Bulgaria  |  
+|  49. Nepal  |  50. Georgia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
+|  ![img](/output/countries_current/Nepal_newCases.png)  |  ![img](/output/countries_current/Georgia_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    
