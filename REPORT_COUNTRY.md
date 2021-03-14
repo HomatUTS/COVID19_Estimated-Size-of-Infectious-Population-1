@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-12, COVID-19 Time Series
+## 2021-03-13, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -52,17 +52,17 @@
 
  <p>&nbsp;</p> 
 
-7. Spain <p>
-> <img src="/output/countries_current/Spain_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Spain_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Spain_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Spain_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-8. Italy <p>
+7. Italy <p>
 > <img src="/output/countries_current/Italy_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Italy_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Italy_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Italy_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+8. Spain <p>
+> <img src="/output/countries_current/Spain_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Spain_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Spain_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Spain_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -255,17 +255,17 @@
 
  <p>&nbsp;</p> 
 
-36. Morocco <p>
-> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Morocco_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-37. Austria <p>
+36. Austria <p>
 > <img src="/output/countries_current/Austria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Austria_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Austria_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Austria_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+37. Morocco <p>
+> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Morocco_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

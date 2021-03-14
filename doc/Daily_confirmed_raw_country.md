@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-12, COVID-19 Time Series
+## 2021-03-13, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -22,9 +22,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/United Kingdom_newCases.png)  |  ![img](/output/countries_current/France_newCases.png)  |  
 
-|  7. Spain  |  8. Italy  |  
+|  7. Italy  |  8. Spain  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Spain_newCases.png)  |  ![img](/output/countries_current/Italy_newCases.png)  |  
+|  ![img](/output/countries_current/Italy_newCases.png)  |  ![img](/output/countries_current/Spain_newCases.png)  |  
 
 |  9. Turkey  |  10. Germany  |  
 |  :---   |   :---   |  
@@ -78,13 +78,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Bangladesh_newCases.png)  |  ![img](/output/countries_current/Serbia_newCases.png)  |  
 
-|  35. Hungary  |  36. Morocco  |  
+|  35. Hungary  |  36. Austria  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Hungary_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
+|  ![img](/output/countries_current/Hungary_newCases.png)  |  ![img](/output/countries_current/Austria_newCases.png)  |  
 
-|  37. Austria  |  38. Jordan  |  
+|  37. Morocco  |  38. Jordan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Austria_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
+|  ![img](/output/countries_current/Morocco_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
 
 |  39. Japan  |  40. United Arab Emirates  |  
 |  :---   |   :---   |  

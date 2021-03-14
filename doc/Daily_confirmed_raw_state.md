@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-12, COVID-19 Time Series
+## 2021-03-13, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -26,13 +26,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/OH_newCases.png)  |  ![img](/output/states_current/PA_newCases.png)  |  
 
-|  9. NC  |  10. AZ  |  
+|  9. NC  |  10. NJ  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NC_newCases.png)  |  ![img](/output/states_current/AZ_newCases.png)  |  
+|  ![img](/output/states_current/NC_newCases.png)  |  ![img](/output/states_current/NJ_newCases.png)  |  
 
-|  11. NJ  |  12. TN  |  
+|  11. AZ  |  12. TN  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NJ_newCases.png)  |  ![img](/output/states_current/TN_newCases.png)  |  
+|  ![img](/output/states_current/AZ_newCases.png)  |  ![img](/output/states_current/TN_newCases.png)  |  
 
 |  13. IN  |  14. MI  |  
 |  :---   |   :---   |  
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
 
-|  31. KS  |  32. MS  |  
+|  31. MS  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_newCases.png)  |  ![img](/output/states_current/MS_newCases.png)  |  
+|  ![img](/output/states_current/MS_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
 
 |  33. NV  |  34. CT  |  
 |  :---   |   :---   |  
