@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-13, COVID-19 Time Series
+## 2021-03-14, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -241,17 +241,17 @@
 
  <p>&nbsp;</p> 
 
-34. Serbia <p>
-> <img src="/output/countries_current/Serbia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Serbia_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Serbia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Serbia_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-35. Hungary <p>
+34. Hungary <p>
 > <img src="/output/countries_current/Hungary_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Hungary_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Hungary_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Hungary_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+35. Serbia <p>
+> <img src="/output/countries_current/Serbia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Serbia_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Serbia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Serbia_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
