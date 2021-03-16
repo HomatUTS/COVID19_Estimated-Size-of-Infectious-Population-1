@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-14, COVID-19 Time Series
+## 2021-03-15, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -346,17 +346,17 @@
 
  <p>&nbsp;</p> 
 
-49. Nepal <p>
-> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_cnvd_AscertainmentRate.png" width="49.5%"/> 
+49. Kazakhstan <p>
+> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Nepal_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTransmissionRate.png" width="49.5%"/> 
+> <img src="/output/countries_current/Kazakhstan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-50. Georgia <p>
-> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_cnvd_AscertainmentRate.png" width="49.5%"/> 
+50. Nepal <p>
+> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Georgia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTransmissionRate.png" width="49.5%"/> 
+> <img src="/output/countries_current/Nepal_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

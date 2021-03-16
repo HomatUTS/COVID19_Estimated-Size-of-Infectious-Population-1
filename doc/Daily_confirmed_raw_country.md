@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-14, COVID-19 Time Series
+## 2021-03-15, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -106,9 +106,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
 
-|  49. Nepal  |  50. Georgia  |  
+|  49. Kazakhstan  |  50. Nepal  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Nepal_newCases.png)  |  ![img](/output/countries_current/Georgia_newCases.png)  |  
+|  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    
