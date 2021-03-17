@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-15, COVID-19 Time Series
+## 2021-03-16, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -262,17 +262,17 @@
 
  <p>&nbsp;</p> 
 
-37. Morocco <p>
-> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Morocco_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-38. Jordan <p>
+37. Jordan <p>
 > <img src="/output/countries_current/Jordan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Jordan_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Jordan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Jordan_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+38. Morocco <p>
+> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Morocco_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -353,10 +353,10 @@
 
  <p>&nbsp;</p> 
 
-50. Nepal <p>
-> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_NewCasesEstConfirmed.png" width="49.5%"/> 
+50. Georgia <p>
+> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_NewCasesEstConfirmed.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Nepal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTotalCases.png" width="49.5%"/> 
+> <img src="/output/countries_current/Georgia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

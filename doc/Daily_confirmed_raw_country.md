@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-15, COVID-19 Time Series
+## 2021-03-16, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -82,9 +82,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Serbia_newCases.png)  |  ![img](/output/countries_current/Austria_newCases.png)  |  
 
-|  37. Morocco  |  38. Jordan  |  
+|  37. Jordan  |  38. Morocco  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Morocco_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
+|  ![img](/output/countries_current/Jordan_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
 
 |  39. Japan  |  40. United Arab Emirates  |  
 |  :---   |   :---   |  
@@ -106,9 +106,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
 
-|  49. Kazakhstan  |  50. Nepal  |  
+|  49. Kazakhstan  |  50. Georgia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
+|  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  ![img](/output/countries_current/Georgia_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    
