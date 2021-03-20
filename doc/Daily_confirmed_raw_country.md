@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-18, COVID-19 Time Series
+## 2021-03-19, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -42,13 +42,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Iran_newCases.png)  |  ![img](/output/countries_current/Ukraine_newCases.png)  |  
 
-|  17. South Africa  |  18. Indonesia  |  
+|  17. South Africa  |  18. Peru  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/South Africa_newCases.png)  |  ![img](/output/countries_current/Indonesia_newCases.png)  |  
+|  ![img](/output/countries_current/South Africa_newCases.png)  |  ![img](/output/countries_current/Peru_newCases.png)  |  
 
-|  19. Czechia  |  20. Peru  |  
+|  19. Indonesia  |  20. Czechia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Czechia_newCases.png)  |  ![img](/output/countries_current/Peru_newCases.png)  |  
+|  ![img](/output/countries_current/Indonesia_newCases.png)  |  ![img](/output/countries_current/Czechia_newCases.png)  |  
 
 |  21. Netherlands  |  22. Canada  |  
 |  :---   |   :---   |  
@@ -58,9 +58,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Chile_newCases.png)  |  ![img](/output/countries_current/Romania_newCases.png)  |  
 
-|  25. Israel  |  26. Belgium  |  
+|  25. Belgium  |  26. Israel  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Israel_newCases.png)  |  ![img](/output/countries_current/Belgium_newCases.png)  |  
+|  ![img](/output/countries_current/Belgium_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
 
 |  27. Portugal  |  28. Iraq  |  
 |  :---   |   :---   |  
