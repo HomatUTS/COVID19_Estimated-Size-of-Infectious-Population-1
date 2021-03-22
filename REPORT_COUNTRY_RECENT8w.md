@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-03-20, COVID-19 Time Series
+## 2021-03-21, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -136,17 +136,17 @@
 
  <p>&nbsp;</p> 
 
-19. Indonesia <p>
-> <img src="/output/countries_current/Indonesia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Indonesia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-20. Peru <p>
+19. Peru <p>
 > <img src="/output/countries_current/Peru_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Peru_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Peru_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Peru_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+20. Indonesia <p>
+> <img src="/output/countries_current/Indonesia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Indonesia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -234,17 +234,17 @@
 
  <p>&nbsp;</p> 
 
-33. Bangladesh <p>
-> <img src="/output/countries_current/Bangladesh_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Bangladesh_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-34. Hungary <p>
+33. Hungary <p>
 > <img src="/output/countries_current/Hungary_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Hungary_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Hungary_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Hungary_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+34. Bangladesh <p>
+> <img src="/output/countries_current/Bangladesh_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Bangladesh_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
